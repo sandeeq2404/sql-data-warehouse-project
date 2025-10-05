@@ -1,3 +1,6 @@
+USE DataWarehouse;
+
+	
 /*
 ===============================================================================
 DDL Script: Create Bronze Tables
